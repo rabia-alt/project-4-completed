@@ -1,0 +1,14 @@
+artifact_uri: file:///c:\Users\Rabia Hafeez\Desktop\New folder\mlruns/585255200943386648/99fd67df59d548e6b0d1c0682f1fe299/artifacts
+end_time: 1781623883338
+entry_point_name: ''
+experiment_id: '585255200943386648'
+lifecycle_stage: active
+run_id: 99fd67df59d548e6b0d1c0682f1fe299
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781623867178
+status: 3
+tags: []
+user_id: Rabia Hafeez

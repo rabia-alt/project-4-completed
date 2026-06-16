@@ -1,0 +1,10 @@
+artifact_location: file:///c:\Users\Rabia Hafeez\Desktop\New folder\mlruns/585255200943386648/models/m-b9fc8c10981b416fa5f6f54fe0ed83ae/artifacts
+creation_timestamp: 1781623898424
+experiment_id: '585255200943386648'
+last_updated_timestamp: 1781623904064
+model_id: m-b9fc8c10981b416fa5f6f54fe0ed83ae
+model_type: null
+name: model
+source_run_id: 5ac31810de4245c9beb22ce01cd007d8
+status: 2
+status_message: null

@@ -1,0 +1,27 @@
+creation_timestamp: 1781624747777
+current_stage: Production
+deployment_job_state: null
+description: 'XGBoost model for predictive maintenance. Trained on equipment sensor
+  data (10,000 samples).
+
+
+  Performance:
+
+  - ROC AUC: 0.9751
+
+  - F1 Score: 0.5976
+
+
+  Features: temperature, vibration, pressure, rpm, age_days'
+last_updated_timestamp: 1781625023011
+model_id: m-bddc323028ca482785e231864d166bc2
+name: PredictiveMaintenance
+run_id: 99fd67df59d548e6b0d1c0682f1fe299
+run_link: ''
+source: models:/m-bddc323028ca482785e231864d166bc2
+status: READY
+status_message: null
+storage_location: file:///c:\Users\Rabia Hafeez\Desktop\New folder\mlruns/585255200943386648/models/m-bddc323028ca482785e231864d166bc2/artifacts
+user_id: null
+version: 1
+workspace: default

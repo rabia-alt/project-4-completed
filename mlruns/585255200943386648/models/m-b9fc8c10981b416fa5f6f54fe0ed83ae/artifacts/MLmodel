@@ -1,0 +1,23 @@
+artifact_path: file:///c:\Users\Rabia Hafeez\Desktop\New folder\mlruns/585255200943386648/models/m-b9fc8c10981b416fa5f6f54fe0ed83ae/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-b9fc8c10981b416fa5f6f54fe0ed83ae
+model_size_bytes: 251497
+model_uuid: m-b9fc8c10981b416fa5f6f54fe0ed83ae
+prompts: null
+run_id: 5ac31810de4245c9beb22ce01cd007d8
+utc_time_created: '2026-06-16 15:31:38.502511'

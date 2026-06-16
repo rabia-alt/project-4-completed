@@ -1,0 +1,9 @@
+artifact_location: file:///c:\Users\Rabia Hafeez\Desktop\New folder\mlruns/585255200943386648
+creation_time: 1781623768045
+effective_trace_archival_retention: null
+experiment_id: '585255200943386648'
+last_update_time: 1781623768045
+lifecycle_stage: active
+name: predictive-maintenance
+trace_location: null
+workspace: default

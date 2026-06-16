@@ -1,0 +1,16 @@
+creation_timestamp: 1781623954272
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1781623954272
+model_id: m-bddc323028ca482785e231864d166bc2
+name: PredictiveMaintenanceModel
+run_id: 99fd67df59d548e6b0d1c0682f1fe299
+run_link: null
+source: models:/m-bddc323028ca482785e231864d166bc2
+status: READY
+status_message: null
+storage_location: file:///c:\Users\Rabia Hafeez\Desktop\New folder\mlruns/585255200943386648/models/m-bddc323028ca482785e231864d166bc2/artifacts
+user_id: null
+version: 1
+workspace: default
